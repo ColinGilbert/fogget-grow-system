@@ -1,4 +1,4 @@
-##Fogget-About-It grow system
+## Fogget-About-It grow system
 
 This is the collect-all repository for the Fogget-About-It grow system, a management system and user console for a fleet of computerized fogponics growrooms, powered by commodity embedded systems. It is intended to be as user-friendly as possible for home users and non-technically inclined folk. It is currently in the form of Java projects - in the near future, we aim to turn these into a turn-key solution and build a user community.
  
